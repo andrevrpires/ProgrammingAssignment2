@@ -10,7 +10,7 @@
 ## to set and get the matrix,
 ## to set and get its inverse.
 
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(x = matrix()) {str
         
         ## initialize the variable for the inverse of x
         inverse <- NULL
